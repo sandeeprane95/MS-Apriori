@@ -1,0 +1,59 @@
+Frequent-1 itemsets:
+
+	419 : {10}
+	381 : {4}
+	468 : {2}
+	404 : {26}
+	451 : {16}
+	484 : {32}
+	678 : {19}
+	808 : {17}
+	775 : {43}
+	703 : {37}
+	667 : {28}
+	802 : {6}
+
+	Total number of Frequent-1 itemsets = 12
+
+
+Frequent 2 Itemsets:
+
+	150 : {10, 32}
+
+Tailcount = 484
+	194 : {10, 19}
+
+Tailcount = 678
+	150 : {10, 33}
+
+Tailcount = 516
+	205 : {10, 37}
+
+Tailcount = 703
+	183 : {10, 28}
+
+Tailcount = 667
+	165 : {4, 28}
+
+Tailcount = 667
+	169 : {2, 16}
+
+Tailcount = 451
+	202 : {2, 19}
+
+Tailcount = 678
+	151 : {2, 33}
+
+Tailcount = 516
+	222 : {2, 37}
+
+Tailcount = 703
+	191 : {2, 28}
+
+Tailcount = 667
+
+
+	Total number of Frequent-2 itemsets = 11
+
+
+...
