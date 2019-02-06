@@ -20,13 +20,13 @@ Reference to the algorithm can be found in the book 'Web Data Mining: Exploring 
 3. OUTPUT FILE PATH - Set a path where the output file would be generated. (Line 39 on Text editor)
 
 ## Steps to run the code -
->From the Command Prompt, navigate to the directory containing your .java files, say C:\Apriori\, by typing the cd command below.  
->>C:\Users\username> cd C:\Apriori\  
->>C:\Apriori\>
+1. From the Command Prompt, navigate to the directory containing your .java files, say C:\Apriori\, by typing the cd command below.  
+>C:\Users\username> cd C:\Apriori\  
+>C:\Apriori\>
 
->Assuming the file MSAP.java, is in the current working directory, type the javac command in boldface below to compile it.  
->>C:\Apriori\> javac MSAP.java  
->>C:\Apriori\>  
+2. Assuming the file MSAP.java, is in the current working directory, type the javac command in boldface below to compile it.  
+>C:\Apriori\> javac MSAP.java  
+>C:\Apriori\>  
 
->You will then use the java command to execute your program.  
->>C:\Apriori\> java MSAP  
+3. You will then use the java command to execute your program.  
+>C:\Apriori\> java MSAP  
