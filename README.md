@@ -1,7 +1,7 @@
 # MS-Apriori Algorithm -
 
 Implementation of the Multiple Support-Apriori Algorithm in JAVA. 
-Course - Data Mining and Text Mining under Prof. Bing Liu at the University of Illinois at Chicago.
+Course : Data Mining and Text Mining under Prof. Bing Liu at the University of Illinois at Chicago.
 
 # About the Algorithm -
 MS-Apriori is an algorithm for mining frequent itemsets by using multiple minimum supports. It is a generalization of the Apriori algorithm, which uses a single minimum support threshold.
